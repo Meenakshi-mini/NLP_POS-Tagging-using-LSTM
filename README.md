@@ -4,7 +4,7 @@
 Executions Steps:
 
 
-    Model file and 'pos_tagger.py' are in submitted Zip folder and they should be in same location.
+    Model file and 'pos_tagger.py' should be in same location.
 
     Run 'pos_tagger.py'
 
